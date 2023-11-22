@@ -23,7 +23,7 @@ function getRandomColors() {
 
 btnCount.addEventListener("click", function() {
     const body = document.body;
-    body.style.backgroundColor = getRandomColors()
+    body.style.backgroundColor = getRandomColors();
     updateCount();
 
     
