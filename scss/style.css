@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background: rgb(98, 3, 193);
+  color: white;
+}
+
+.nav {
+  margin-top: 30px;
+  border: 2px solid green;
+  padding: 25px;
+}
+
+.list {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  list-style: none;
+}/*# sourceMappingURL=style.css.map */
